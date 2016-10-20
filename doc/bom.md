@@ -2,7 +2,7 @@
 
 Product         |   Quantity    | Links
 ----------------|---------------|---------------
-MX-28           | 8             |
+MX-28           | 8             | [Robotis](http://www.robotis-shop-en.com/?act=shop_en.goods_view&GS=2395&keyword=MX-28)
 MX-64           | 12            | [Robotis](http://www.robotis-shop-en.com/?act=shop_en.goods_view&GS=2397&keyword=MX-64)
 Jauges          | 8             |
 Jauge connectors| 8             |
@@ -15,5 +15,11 @@ M3x8 (MX-64 horn)            | ?             |
 M2.5x8 (attaches + MX-28 horn)            | ?             |
 M2x3                                      | ?             |
 M2x5                                      | ?             |
-Connecteur 3P
+Connecteur 3P 160mm                       | ?             |
+MX-28 Us                                  | ?             |
+
+
+Hex screwdriver 1.5
+Hex screwdriver 2
+Hex screwdriver 2.5
 
